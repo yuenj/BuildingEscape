@@ -1,2 +1,2 @@
 # BuildingEscape
-Following Ben Tristem's Unreal Course.
+A simple game built in Unreal Engine 4, following Ben Tristem's Unreal Course.
